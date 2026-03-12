@@ -1,36 +1,25 @@
-# 📌 Projekt: [Tu wpisz roboczą nazwę – np. Notatnik z logowaniem / Smart Notes]
-
-**Klasa:** 1 technik programista  
-**Rodzaj projektu:** 3-miesięczny projekt zaliczeniowy  
-**Data rozpoczęcia:** październik 2025 / luty 2026  
-**Planowany termin oddania:** [wpisz miesiąc]
-
----
-
 ## 🏗️ Architektura aplikacji
 
-- **Typ aplikacji:** SPA (Single Page Application)  
-- **Model realizacji:** Monolit (wszystko w jednym projekcie)  
-- **Komunikacja z danymi:** localStorage (na tym etapie bez backendu)  
-- **Renderowanie:** Client Side Rendering (CSR)  
-- **Wzorce projektowe:** MVC-light / modułowa struktura plików
+- **Typ aplikacji:** SPA  
+- **Model realizacji:** Monolit 
+- **Komunikacja z danymi:** localStorage  
+- **Renderowanie:** Client Side Rendering 
 
-*(w przyszłości ewentualnie: REST API + backend Node.js / PHP)*
 
 ---
 
 ## 🛠️ Stos technologiczny
 
-| Kategoria          | Technologie / narzędzia                              | Uwagi / wersja (2025/2026) |
-|--------------------|-------------------------------------------------------|-----------------------------|
-| Język podstawowy   | JavaScript (vanilla)                                  | ES6+                        |
-| Struktura strony   | HTML5                                                 | semantyczny HTML            |
-| Wygląd             | CSS3 (flexbox, grid, custom properties)               | ewentualnie Tailwind / vanilla |
-| Logika aplikacji   | JavaScript                                            | bez frameworków na start    |
-| Przechowywanie     | localStorage                                          | JSON                        |
-| Narzędzia dev      | Vite (opcjonalnie), Live Server, VS Code              |                             |
-| Dokumentacja       | Markdown                                              | README.md + komentarze      |
-| Inne               | marked.js (jeśli chcesz renderować markdown w apce)   | opcjonalnie                 |
+| Kategoria          | Technologie / narzędzia                              
+|--------------------|-------------------------------------------------------|
+| Język podstawowy   | JavaScript (vanilla)                                  |
+| Struktura strony   | HTML5                                                 | 
+| Wygląd             | CSS3 (flexbox, grid, custom properties)               | 
+| Logika aplikacji   | JavaScript                                            | 
+| Przechowywanie     | localStorage                                          | 
+| Narzędzia dev      | Vite (opcjonalnie), Live Server, VS Code              |                             
+| Dokumentacja       | Markdown                                              | 
+| Inne               | marked.js (jeśli chcesz renderować markdown w apce)   | 
 
 ---
 
@@ -96,4 +85,5 @@ Zaloguj się → zobacz listę → dodaj notatkę → usuń niepotrzebną → wy
 ---
 
 Powodzenia!  
+
 Jeśli chcesz – mogę pomóc dopisać konkretne funkcjonalności, przepływy albo gotowe fragmenty kodu startowego.
