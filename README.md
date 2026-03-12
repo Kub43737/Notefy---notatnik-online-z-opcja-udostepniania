@@ -73,7 +73,6 @@ Zaloguj się → zobacz listę → dodaj notatkę → usuń niepotrzebną → wy
 
 
 
-Powodzenia!  
 
-Jeśli chcesz – mogę pomóc dopisać konkretne funkcjonalności, przepływy albo gotowe fragmenty kodu startowego.
+
 
