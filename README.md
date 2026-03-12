@@ -65,11 +65,8 @@ Zaloguj się → zobacz listę → dodaj notatkę → usuń niepotrzebną → wy
 - Brak cookies → nie trzeba komunikatu o cookies
 - Licencje: kod własny + biblioteki open-source (MIT / Apache 2.0)
 
-### Dostępność i standardy (opcjonalnie na wyższą ocenę)
 
-- WCAG 2.1 poziom A / AA (kontrast, focus, etykiety pól)
-- podstawowe SEO (meta title, description, semantyczne tagi HTML)
-- responsywność (działa na telefonie i komputerze)
+
 
 
 
