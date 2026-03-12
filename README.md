@@ -71,19 +71,9 @@ Zaloguj się → zobacz listę → dodaj notatkę → usuń niepotrzebną → wy
 - podstawowe SEO (meta title, description, semantyczne tagi HTML)
 - responsywność (działa na telefonie i komputerze)
 
----
 
-## 📋 Standardowe elementy oddawanego projektu
-
-- [ ] działająca aplikacja (można przetestować w przeglądarce)
-- [ ] plik README.md z opisem projektu
-- [ ] zrzuty ekranu / krótki filmik demonstracyjny (1–2 min)
-- [ ] czytelny kod + komentarze
-- [ ] dokumentacja w Markdown (ten plik + ewentualnie osobny folder /docs)
-- [ ] (opcjonalnie) JSDoc przy ważniejszych funkcjach
-
----
 
 Powodzenia!  
 
 Jeśli chcesz – mogę pomóc dopisać konkretne funkcjonalności, przepływy albo gotowe fragmenty kodu startowego.
+
